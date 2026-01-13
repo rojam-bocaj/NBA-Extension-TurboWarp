@@ -1,8 +1,6 @@
 # NBA Extension compatible with TurboWarp
 A fully-compatible extension for TurboWarp with past, present, and future NBA games.
 ## How to install:
-- Press the drop down that says 'main'
-- Select the 'versions' branch
 - Press the green '<> Code' button
 - Press 'Download ZIP'
 - Go to https://desktop.turbowarp.org/ and press download
