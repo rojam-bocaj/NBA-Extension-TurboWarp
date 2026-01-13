@@ -1,4 +1,4 @@
-# NBA-Extension-TurboWarp
+# NBA Extension compatible with TurboWarp
 A fully-compatible extension for TurboWarp with past, present, and future NBA games.
 ## How to install:
 - Press the green '<> Code' button
