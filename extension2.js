@@ -17,7 +17,7 @@
                     { opcode: 'getPoints', blockType: Scratch.BlockType.REPORTER, text: 'points' }, // POINTS REPORTER BLOCK DOES NOT WORK PROPERLY
 
                     // -------- GAME INFO --------
-                    { opcode: 'getVenue', blockType: Scratch.BlockType.REPORTER, text: 'venue' },
+                    { opcode: 'getVenue', blockType: Scratch.BlockType.REPORTER, text: 'location' },
                     { opcode: 'getAttendance', blockType: Scratch.BlockType.REPORTER, text: 'attendance' },
                     { opcode: 'getOfficials', blockType: Scratch.BlockType.REPORTER, text: 'officials' },
 
